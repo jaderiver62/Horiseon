@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # *Horiseon*
 ## We specialize in:
+=======
+#Horiseon
+##We specialize in:
+>>>>>>> db30980777571e936615946cabd4e51d051dde9e
 * Search Engine Optimization
 * Online Reputation Management
 * Social Media Marketing
