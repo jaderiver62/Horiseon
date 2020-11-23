@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # *Horiseon*
 ## We specialize in:
 
