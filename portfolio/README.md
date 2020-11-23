@@ -1,4 +1,4 @@
-# [Profile](jaderiver62.github.io/portfolio/index.html)
+# [Profile](./index.html)
 
 
 [jaderiver62.github.io](https://jaderiver62.github.io/)
