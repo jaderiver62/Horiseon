@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 # *Horiseon*
-## We specialize in:
+We specialize in:
 
 * Search Engine Optimization
 * Online Reputation Management
 * Social Media Marketing
 ![Screenshot](./assets/images/jaderiver62.github.io_.png)
-###### :sparkles:  Files:
-* [index.html](./index.html)
-* [css/style.css](./assets/css/style.css)
-* README.md
-:+1:
+:sparkles:  Files:
+######* [index.html](./index.html)
+######* [css/style.css](./assets/css/style.css)
+######* README.md
+######:+1:
 
 
 Contact Info:
