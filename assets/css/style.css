@@ -19,11 +19,12 @@ body {
     background-color: #d9dcd6;
 }
 
+
 /* Header Styles */
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
     overflow: auto;
@@ -42,7 +43,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
     font-size: 20px;
 }
 
@@ -55,6 +56,7 @@ body {
     margin-left: 25px;
 }
 
+
 /* Hero Styles */
 
 .hero {
@@ -66,6 +68,7 @@ body {
     background-position: center;
     position: relative;
 }
+
 
 /* Services Styles */
 
@@ -83,6 +86,8 @@ body {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    min-height: 300px;
+    min-width: 500px;
 }
 
 .service {
@@ -104,6 +109,7 @@ body {
     font-size: 36px;
 }
 
+
 /* Benefit Styles */
 
 .benefits {
@@ -115,7 +121,7 @@ body {
     height: 100%;
     font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
     background-color: #2589bd;
-
+    display: inline;
 }
 
 .benefit {
@@ -133,6 +139,7 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 /* Footer Styles */
 
